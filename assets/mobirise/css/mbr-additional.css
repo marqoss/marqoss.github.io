@@ -1396,3 +1396,118 @@ body {
     width: 100% !important;
   }
 }
+.cid-qQU8wgzJeL {
+  background-image: url("../../../assets/images/evento-esports-competicion-2018-1818x1080.jpg");
+}
+.cid-qQU8wgzJeL .icons-media-container {
+  display: flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+  flex-direction: row;
+  -webkit-flex-direction: row;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-qQU8wgzJeL .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-qQU8wgzJeL .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-qQU8wgzJeL .mbr-text {
+  color: #ffffff;
+}
+.cid-qQU8wgzJeL .card {
+  padding-bottom: 1.5rem;
+}
+.cid-qQUc6fb4DX {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: url("../../../assets/images/gamescom-nbju-1900x1267.jpg");
+}
+.cid-qQUc6fb4DX .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
+}
+.cid-qQUc6fb4DX .number-wrap {
+  color: #ffffff;
+  border-color: rgba(255, 255, 255, 0.15);
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  padding: 5px 10px 13px 10px;
+  margin: 0;
+  min-width: 118px;
+  border-radius: 2px;
+  max-width: 100%;
+}
+.cid-qQUc6fb4DX .number {
+  font-style: normal;
+  font-weight: 700;
+  text-transform: none;
+  letter-spacing: -2px;
+  font-size: 55px;
+  word-spacing: 0;
+  line-height: 1.3;
+  color: #ffffff;
+}
+.cid-qQUc6fb4DX .period {
+  display: block;
+  padding-top: 2px;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+.cid-qQUc6fb4DX .dot {
+  position: absolute;
+  top: -10px;
+  right: -1em;
+  width: 1em;
+  display: block;
+  font-size: 55px;
+  height: 83%;
+  overflow: hidden;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 89.65px;
+  text-transform: none;
+  letter-spacing: 0;
+  word-spacing: 0;
+  color: #ffffff;
+}
+.cid-qQUc6fb4DX .countdown-cont {
+  background: linear-gradient(45deg, #149dcc, #c8ceaf);
+  max-width: 700px;
+  border-radius: 3px;
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qQUc6fb4DX .dot {
+    display: none;
+  }
+}
+@media (max-width: 543px) {
+  .cid-qQUc6fb4DX .number-wrap {
+    margin-bottom: 15px;
+  }
+}
+@media (max-width: 550px) {
+  .cid-qQUc6fb4DX .col-xs-3 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .cid-qQUc6fb4DX .number-wrap {
+    min-width: auto;
+  }
+}
+@media (max-width: 440px) {
+  .cid-qQUc6fb4DX .number,
+  .cid-qQUc6fb4DX .dot {
+    font-size: 40px;
+  }
+}
+@media (max-width: 380px) {
+  .cid-qQUc6fb4DX .period {
+    font-size: 0.8rem;
+  }
+}
