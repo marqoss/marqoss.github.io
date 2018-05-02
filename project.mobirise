@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "eSports",
-    "currentPage": "page1.html",
+    "currentPage": "eSportsLiveVR.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -74,10 +74,10 @@
         }
       ]
     },
-    "page1.html": {
+    "eSportsLiveVR.html": {
       "settings": {
         "meta_descr": "Site Maker Description",
-        "title": "Page 1",
+        "title": "eSportsLiveVR",
         "order": 1
       },
       "components": [
